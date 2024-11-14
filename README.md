@@ -24,8 +24,8 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 
 ## 💻 Projects
 
-- [**Project 1**](https://github.com/your-username/project-1): A full-stack social network built with React, Next.js, Node.js, and PostgreSQL. Includes real-time features using Redis and Kafka.
-- [**Project 2**](https://github.com/your-username/project-2): A blogging platform with advanced search capabilities powered by Elasticsearch and Prisma ORM.
+- [**Project 1**](https://github.com/chithanh1710/project-1): A full-stack social network built with React, Next.js, Node.js, and PostgreSQL. Includes real-time features using Redis and Kafka.
+- [**Project 2**](https://github.com/chithanh1710/project-2): A blogging platform with advanced search capabilities powered by Elasticsearch and Prisma ORM.
 
 ## 🔧 Tools I Use
 - **Code Editor**: Visual Studio Code
@@ -41,6 +41,6 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chithanh1710&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chithanh1710&layout=compact&theme=radical)
