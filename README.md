@@ -41,7 +41,9 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 ## 🔧 Tools I Use
 - **Code Editor**: Visual Studio Code
 - **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions, Docker
+- **CI/CD**: Docker
+- **API Testing**: Postman
+- **Database Management**: TablePlus, PGAdmin 4
 
 ## 📫 Connect with Me
 - [Email](mailto:chithanh171004@gmail.com)
