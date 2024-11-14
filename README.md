@@ -28,12 +28,14 @@ I'm a full-stack developer passionate about building scalable and efficient web 
   - **Live Demo**: [View Live Version](https://www.yididev.online/)
 
 - [**Cinema Project**](https://github.com/chithanh1710/#): A movie ticketing and management system with the following architecture:
-  - **Live Demo**: [View Live Version](https://www.yididev.online/)
+  - **Live Demo**: Unfortunately, due to lack of funding for maintenance, there is no live demo available at the moment.
+  
   This project is split into 4 repositories:
   - **Frontend (User Interface)**: [cinema-fe](https://github.com/chithanh1710/cinema-fe) – The user-facing interface built with **Next.js**.
   - **Frontend (Admin Interface)**: [cinema_admin](https://github.com/chithanh1710/cinema_admin) – The admin interface built with **React.js**, **TanStack Query**, and **React Router**.
   - **Backend (API)**: [CINEMA-BE](https://github.com/chithanh1710/CINEMA-BE) – The API backend built with **ASP.NET**.
   - **Database**: [CSDL_RAPCP](https://github.com/chithanh1710/CSDL_RAPCP) – The database setup using **MSSQL**, handling all data storage and queries.
+
 
 
 ## 🔧 Tools I Use
