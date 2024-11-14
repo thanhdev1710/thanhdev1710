@@ -25,7 +25,7 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 ## 💻 Projects
 
 - [**YiDiMoVi**](https://github.com/chithanh1710/YiDiMoVi): A movie streaming website built with **Supabase**, **Next.js**, **TailwindCSS**, and **ShadCN**. Features include user authentication, movie browsing, and real-time streaming.
-  - **Live Demo**: [View Live Version](https://yididev.com)  <!-- Thêm đường dẫn live version của bạn tại đây -->
+  - **Live Demo**: [View Live Version](https://www.yididev.online/)  <!-- Thêm đường dẫn live version của bạn tại đây -->
 
 - [**Cinema Project**](https://github.com/chithanh1710/#): A movie ticketing and management system with the following architecture:
   
