@@ -24,8 +24,16 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 
 ## 💻 Projects
 
-- [**Project 1**](https://github.com/chithanh1710/project-1): A full-stack social network built with React, Next.js, Node.js, and PostgreSQL. Includes real-time features using Redis and Kafka.
-- [**Project 2**](https://github.com/chithanh1710/project-2): A blogging platform with advanced search capabilities powered by Elasticsearch and Prisma ORM.
+- [**YiDiMoVi**](https://github.com/chithanh1710/YiDiMoVi): A movie streaming website built with **Supabase**, **Next.js**, **TailwindCSS**, and **ShadCN**. Features include user authentication, movie browsing, and real-time streaming.
+
+- [**Cinema Project**](https://github.com/chithanh1710/project-2): A movie ticketing and management system with the following architecture:
+  
+  This project is split into 4 repositories:
+  - **Frontend (User Interface)**: [cinema-fe](https://github.com/chithanh1710/cinema-fe) – The user-facing interface built with **Next.js**.
+  - **Frontend (Admin Interface)**: [cinema_admin](https://github.com/chithanh1710/cinema_admin) – The admin interface built with **React.js**, **TanStack Query**, and **React Router**.
+  - **Backend (API)**: [CINEMA-BE](https://github.com/chithanh1710/CINEMA-BE) – The API backend built with **ASP.NET**.
+  - **Database**: [CSDL_RAPCP](https://github.com/chithanh1710/CSDL_RAPCP) – The database setup using **MSSQL**, handling all data storage and queries.
+
 
 ## 🔧 Tools I Use
 - **Code Editor**: Visual Studio Code
