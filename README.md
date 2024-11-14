@@ -41,9 +41,7 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 - **CI/CD**: GitHub Actions, Docker
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:chithanh171004@gmail.com)
 
 ---
 
