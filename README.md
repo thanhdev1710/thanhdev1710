@@ -47,7 +47,7 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 
 ## 📫 Connect with Me
 - [Email](mailto:chithanh171004@gmail.com)
-- [Portfolio]([https://your-portfolio-link.com](https://thanhdev.vercel.app/))
+- [Portfolio](https://thanhdev.vercel.app/)
 
 ---
 
