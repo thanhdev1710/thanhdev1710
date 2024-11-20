@@ -1,4 +1,4 @@
-# Hi, I'm Chi Thanh 👋
+# Hi, I'm ThanhDev 👋
 
 I'm a full-stack developer passionate about building scalable and efficient web applications. I specialize in both frontend and backend development with a strong focus on clean code, performance, and scalability.
 
