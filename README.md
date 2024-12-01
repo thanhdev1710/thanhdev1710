@@ -19,8 +19,6 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 - **Prisma** - Modern ORM for PostgreSQL, simplifying database interactions with a type-safe API.
 - **Redis** - In-memory data structure store for caching and improving app performance.
 - **Docker** - Containerization platform to deploy and manage applications consistently across environments.
-- **Kafka** - Distributed event streaming platform for real-time data pipelines.
-- **Elasticsearch** - Search engine for building fast and scalable search functionalities.
 
 ## 💻 Projects
 
