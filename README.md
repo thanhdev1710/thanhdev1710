@@ -14,10 +14,11 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 
 ### Database
 - **PostgreSQL** - Relational database for managing and querying large datasets efficiently.
+- **Redis** - In-memory data structure store, often used for caching, session storage, and real-time data processing.
 
 ### Other Tools & Technologies
-- **Prisma** - Modern ORM for PostgreSQL, simplifying database interactions with a type-safe API.
-- **Redis** - In-memory data structure store for caching and improving app performance.
+- **Drizzle** - TypeScript-first ORM focused on simplicity and performance, making database management and queries efficient.
+- **JWT (JSON Web Token)** - Industry-standard method for securely transmitting information between parties for authentication and authorization.
 - **Docker** - Containerization platform to deploy and manage applications consistently across environments.
 
 ## 💻 Projects
@@ -33,8 +34,6 @@ I'm a full-stack developer passionate about building scalable and efficient web 
   - **Frontend (Admin Interface)**: [cinema_admin](https://github.com/thanhdev1710/cinema_admin) – The admin interface built with **React.js**, **TanStack Query**, and **React Router**.
   - **Backend (API)**: [CINEMA-BE](https://github.com/thanhdev1710/CINEMA-BE) – The API backend built with **ASP.NET**.
   - **Database**: [CSDL_RAPCP](https://github.com/thanhdev1710/CSDL_RAPCP) – The database setup using **MSSQL**, handling all data storage and queries.
-
-
 
 ## 🔧 Tools I Use
 - **Code Editor**: Visual Studio Code
