@@ -38,11 +38,10 @@ Here are some of the tools and technologies I work with:
 Here are some tools I use to enhance my development workflow:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="50">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=codecrafters&logoColor=white" alt="VS Code" height="50">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="50">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="50">
-    <img src="https://img.shields.io/badge/TablePlus-DB5858?style=for-the-badge&logo=tableplus&logoColor=white" alt="TablePlus" height="50">
 </div>
 
 ---
