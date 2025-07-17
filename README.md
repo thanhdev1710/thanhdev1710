@@ -29,6 +29,7 @@ Here are some of the tools and technologies I work with:
 <div style="display: flex; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdev1710&layout=compact&theme=radical" alt="Top Languages" height="300" width="400">
     <img src="https://github-readme-stats.vercel.app/api?username=thanhdev1710&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="300" width="400">
+    <img src="https://streak-stats.demolab.com?user=thanhdev1710&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
